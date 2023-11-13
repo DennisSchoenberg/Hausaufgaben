@@ -12,5 +12,6 @@ public class Main {
 
         Johaness.introduce();
         Eva.introduce();
+        System.out.println("Das Programm wird beendet.");
     }
 }

@@ -1,4 +1,4 @@
-package hausaufgabe51.task06;
+package hausaufgabe51;
 
 public class StringReverser {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package hausaufgabe51.task02;
+package hausaufgabe51;
 
 public class IpParser {
     public static void main(String[] args) {

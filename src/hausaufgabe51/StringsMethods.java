@@ -1,4 +1,4 @@
-package hausaufgabe51.task01;
+package hausaufgabe51;
 
 public class StringsMethods {
     public static void main(String[] args) {

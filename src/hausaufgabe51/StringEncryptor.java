@@ -1,4 +1,4 @@
-package hausaufgabe51.task03;
+package hausaufgabe51;
 
 public class StringEncryptor {
     public static void main(String[] args) {

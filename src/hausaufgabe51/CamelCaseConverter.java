@@ -1,4 +1,4 @@
-package hausaufgabe51.task07;
+package hausaufgabe51;
 
 public class CamelCaseConverter {
     public static void main(String[] args) {

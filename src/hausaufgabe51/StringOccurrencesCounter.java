@@ -1,4 +1,4 @@
-package hausaufgabe51.task04;
+package hausaufgabe51;
 
 public class StringOccurrencesCounter {
     public static void main(String[] args) {

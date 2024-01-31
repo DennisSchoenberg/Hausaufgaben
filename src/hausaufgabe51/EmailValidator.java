@@ -1,4 +1,4 @@
-package hausaufgabe51.task05;
+package hausaufgabe51;
 
 import java.util.regex.Pattern;
 
